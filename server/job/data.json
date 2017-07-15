@@ -1,0 +1,9 @@
+{
+    "jobs" : [
+        {
+            "company": null,
+            "minRate": "500",
+            "maxRate": "600"
+        }
+    ]
+}

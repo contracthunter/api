@@ -1,0 +1,49 @@
+{
+    "people" : [
+        {
+            "name": {
+                "first": "Jai",
+                "last": "O'Hanlon"
+            },
+            "email": "jai.ohanlon@contracthunter.io",
+            "phone": "07791 708468",
+            "address": ""
+        },
+        {
+            "name": {
+                "first": "Nyia",
+                "last": "O'Hanlon"
+            },
+            "email": "nyia.ohanlon@contracthunter.io",
+            "phone": "07791 708468",
+            "address": ""
+        },
+        {
+            "name": {
+                "first": "Steve",
+                "last": "Foster"
+            },
+            "email": "steve.foster@contracthunter.io",
+            "phone": "07791 708468",
+            "address": ""
+        },
+        {
+            "name": {
+                "first": "Joe",
+                "last": "Love"
+            },
+            "email": "me@joelove.uk",
+            "phone": "07791 708468",
+            "address": ""
+        },
+        {
+            "name": {
+                "first": "Jamie",
+                "last": "Allan"
+            },
+            "email": "me@jamieallan.uk",
+            "phone": "07791 708468",
+            "address": ""
+        }
+    ]
+}

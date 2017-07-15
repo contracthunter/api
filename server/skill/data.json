@@ -1,0 +1,16 @@
+{
+    "skills" : [
+        {
+            "label": "Javascript",
+            "level": "SKILL_LEVEL_JUNIOR"
+        },
+        {
+            "label": "Javascript",
+            "level": "SKILL_LEVEL_MIDWEIGHT"
+        },
+        {
+            "label": "Javascript",
+            "level": "SKILL_LEVEL_SENIOR"
+        }
+    ]
+}

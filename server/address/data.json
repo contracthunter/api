@@ -1,0 +1,28 @@
+{
+    "addresses" : [
+        {   
+            "name": "Home (UK)",
+            "street": "87A Oakleigh Park Drive",
+            "town": "Leigh On Sea",
+            "county": "Essex",
+            "postcode": "SS9 1RR",
+            "country": "United Kingdom"
+        },
+        {   
+            "name": "Mum and Dad's (UK)",
+            "street": "42 High Cliff Drive",
+            "town": "Leigh On Sea",
+            "county": "Essex",
+            "postcode": "SS9 1DG",
+            "country": "United Kingdom"
+        },
+        {   
+            "name": "Home (Gibraltar)",
+            "street": "409 Grand Ocean Plaza",
+            "town": "Ocean Village",
+            "county": "",
+            "postcode": "NZS GG1",
+            "country": "Gibraltar"
+        }  
+    ]
+}
